@@ -18,7 +18,7 @@ In response, policymakers introduced:
    # IS Curve: Goods Market
 * Derived from the national income identity:
 
-𝑌=𝐶+𝐼(𝑌,𝑖)+G
+     𝑌 = 𝐶 + 𝐼(𝑌,𝑖) + G
 
 * Expansionary fiscal policy (higher G and tax cuts) leads to:
   * Increased disposable income → higher consumption (C)
@@ -28,11 +28,11 @@ In response, policymakers introduced:
      # LM Curve: Money Market
 * Equilibrium:
 
-  𝑀/𝑃=𝐿(𝑌,𝑖)
+     𝑀/𝑃 = 𝐿(𝑌,𝑖)
 
 * Demand for money
 
-   𝐿(𝑌,𝑖)=𝑘𝑌−ℎ𝑖
+     𝐿(𝑌,𝑖) = 𝑘𝑌 − ℎ𝑖
 
 * Expansionary monetary policy increases money supply (M):
   * Lowers interest rates (i)
