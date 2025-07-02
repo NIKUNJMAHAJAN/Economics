@@ -1,5 +1,4 @@
 # Impact of Fiscal and Monetary Policy on India's Economy: An IS-LM Framework Analysis
-# Project Overview
 This project analyzes how recent expansionary fiscal and monetary policies by the Indian government and the Reserve Bank of India (RBI) are likely to affect the Indian economy in FY25–FY26. The analysis is structured using the IS-LM model, which helps visualize the equilibrium in the goods market (IS curve) and the money market (LM curve).
 
 # Problem Statement
