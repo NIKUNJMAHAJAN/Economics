@@ -40,7 +40,7 @@ In response, policymakers introduced:
 * Result: Rightward shift of the LM curve → lower interest rates and higher output
 
 # Policy Measures Analyzed
-   # Expansionary Fiscal Policy
+    # Expansionary Fiscal Policy
 * Tax relief: Exemption for individuals earning up to ₹12 lakh annually → boosts disposable income
 * Higher public capital expenditure: Infrastructure projects → direct demand stimulus & job creation
 
