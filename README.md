@@ -27,10 +27,11 @@ In response, policymakers introduced:
 * # LM Curve: Money Market
 * Equilibrium:
 
-𝑀/𝑃=𝐿(𝑌,𝑖)
+  𝑀/𝑃=𝐿(𝑌,𝑖)
 
-* Demand for money 
-𝐿(𝑌,𝑖)=𝑘𝑌−ℎ𝑖
+* Demand for money
+
+   𝐿(𝑌,𝑖)=𝑘𝑌−ℎ𝑖
 
 * Expansionary monetary policy increases money supply (M):
   * Lowers interest rates (i)
@@ -39,11 +40,11 @@ In response, policymakers introduced:
 * Result: Rightward shift of the LM curve → lower interest rates and higher output
 
 # Policy Measures Analyzed
-* # Expansionary Fiscal Policy
+   # Expansionary Fiscal Policy
 * Tax relief: Exemption for individuals earning up to ₹12 lakh annually → boosts disposable income
 * Higher public capital expenditure: Infrastructure projects → direct demand stimulus & job creation
 
-* # Expansionary Monetary Policy
+    # Expansionary Monetary Policy
 * Rate cuts: Policy rate reduced from 6.5% → 6% over February–April 2025
 * Accommodative stance: Encourages borrowing and investment
 * Increased money supply: Better credit availability for businesses and households
