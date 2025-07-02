@@ -14,7 +14,7 @@ In response, policymakers introduced:
 * The project uses the IS-LM model to analyze the expected effects of these measures.
 
 # IS-LM Framework: Key Concepts
-   
+* The two curves in this study are IS & LM Curves:
    # IS Curve: Goods Market
 * Derived from the national income identity:
 
