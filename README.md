@@ -14,7 +14,7 @@ In response, policymakers introduced:
 * The project uses the IS-LM model to analyze the expected effects of these measures.
 
 # IS-LM Framework: Key Concepts
-* # IS Curve: Goods Market
+   # IS Curve: Goods Market
 * Derived from the national income identity:
 
 𝑌=𝐶+𝐼(𝑌,𝑖)+G
@@ -24,7 +24,7 @@ In response, policymakers introduced:
   * Increased government expenditure (G)
 * Result: Rightward shift of the IS curve → higher equilibrium output (Y)
 
-* # LM Curve: Money Market
+     # LM Curve: Money Market
 * Equilibrium:
 
   𝑀/𝑃=𝐿(𝑌,𝑖)
@@ -40,11 +40,12 @@ In response, policymakers introduced:
 * Result: Rightward shift of the LM curve → lower interest rates and higher output
 
 # Policy Measures Analyzed
-    # Expansionary Fiscal Policy
+
+   # Expansionary Fiscal Policy
 * Tax relief: Exemption for individuals earning up to ₹12 lakh annually → boosts disposable income
 * Higher public capital expenditure: Infrastructure projects → direct demand stimulus & job creation
 
-    # Expansionary Monetary Policy
+   # Expansionary Monetary Policy
 * Rate cuts: Policy rate reduced from 6.5% → 6% over February–April 2025
 * Accommodative stance: Encourages borrowing and investment
 * Increased money supply: Better credit availability for businesses and households
