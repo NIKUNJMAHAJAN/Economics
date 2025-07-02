@@ -14,6 +14,7 @@ In response, policymakers introduced:
 * The project uses the IS-LM model to analyze the expected effects of these measures.
 
 # IS-LM Framework: Key Concepts
+   
    # IS Curve: Goods Market
 * Derived from the national income identity:
 
@@ -40,6 +41,7 @@ In response, policymakers introduced:
 * Result: Rightward shift of the LM curve → lower interest rates and higher output
 
 # Policy Measures Analyzed
+The policy measures analyzed were Expansionary Fiscal Policy and Expansionary Monetary Policy:
 
    # Expansionary Fiscal Policy
 * Tax relief: Exemption for individuals earning up to ₹12 lakh annually → boosts disposable income
