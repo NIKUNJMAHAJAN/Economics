@@ -41,7 +41,7 @@ In response, policymakers introduced:
 * Result: Rightward shift of the LM curve → lower interest rates and higher output
 
 # Policy Measures Analyzed
-The policy measures analyzed were Expansionary Fiscal Policy and Expansionary Monetary Policy:
+* The policy measures analyzed were Expansionary Fiscal Policy and Expansionary Monetary Policy:
 
    # Expansionary Fiscal Policy
 * Tax relief: Exemption for individuals earning up to ₹12 lakh annually → boosts disposable income
